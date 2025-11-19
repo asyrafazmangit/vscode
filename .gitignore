@@ -1,0 +1,17 @@
+# AWS credentials and sensitive files
+*.pem
+*.key
+credentials
+config
+.aws/
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
